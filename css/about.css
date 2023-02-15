@@ -1,0 +1,51 @@
+
+
+
+.mainimg{
+    float:left;
+    position: relative;
+    top:150px;
+    left:200px;
+    width:300px;
+}
+header{
+    background: #ffffff;
+    border-bottom: 1px solid #dddddd;
+}
+
+header .head-inner-wrap{
+    margin-left:310px;
+    display: flex;
+    padding: 10px 0;
+    align-items: center;
+    justify-content: space-between;
+    height:35px;
+}
+.logo {
+   position:relative;
+   left:300px;
+}
+.content{
+    position: relative;
+    top:150px;
+    left:250px;
+}
+
+.title{
+    font-size:40px;
+}
+
+.line{
+    width:500px;
+    height:10px;
+    background-color:pink;
+    border:none;
+    position:absolute;
+    left:300px;
+    top:50px
+}
+
+.about{
+    font-size:25px;
+    color:rgb(138, 137, 137);
+}
